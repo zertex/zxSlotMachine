@@ -1,0 +1,12 @@
+name: zxSlotMachine
+api-version: 1.16
+version: 1.04
+author: Error202
+main: com.xapple.zxslotmachine.Main
+softdepend: [WGCustomFlags]
+commands:
+   zslot:
+      description: Plugin Information.
+      usage: /<command> list
+      permission: zxslotmachine.use
+      permission-message: You don't have <permission>

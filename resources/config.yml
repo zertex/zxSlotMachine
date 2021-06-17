@@ -1,0 +1,33 @@
+used_blocks:
+   iron_block: iron_block
+   diamond_ore: diamond_ore
+   emerald_ore: emerald_ore
+   gold_ore: gold_ore
+   gold_ingot: gold_ingot
+   apple: apple
+   golden_apple: golden_apple
+   redstone_block: redstone_block
+   cake: cake
+   iron_ingot: iron_ingot
+   diamond: diamond
+   emerald: emerald
+   lava_bucket: lava_bucket
+   water_bucket: water_bucket
+   raw_fish: pufferfish
+   ender_pearl: ender_pearl
+   nether_star: nether_star
+broadcast_after_amount: 100
+activate_use: false
+single_play: false
+rotation_sound: CLICK
+sounds: true
+wins:
+   factor9: 1666
+   factor8: 300
+   factor7: 100
+   factor6: 50
+   factor5: 25
+   factor4: 12
+   factor3: 12
+   factor2: 6
+   factor1: 1
